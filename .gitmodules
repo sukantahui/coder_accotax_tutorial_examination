@@ -1,0 +1,6 @@
+[submodule "coder_tutorial_hui"]
+	path = coder_tutorial_hui
+	url = https://github.com/sukantahui/coder_tutorial_hui.git
+[submodule "coder_accotax_tutorial_api"]
+	path = coder_accotax_tutorial_api
+	url = https://github.com/sukantahui/coder_accotax_tutorial_api.git
